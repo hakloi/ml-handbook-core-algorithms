@@ -1,1 +1,1 @@
-# short_label_series
+A hands-on playground for exploring core machine learning concepts and implementing advanced techniques from scratch and with popular libraries.
